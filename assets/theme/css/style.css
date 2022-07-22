@@ -669,6 +669,12 @@ input[type=range] {
   }
 }
 
+@media (max-width: 575px) {
+  .imgCel{
+    width: 50%;
+  }
+}
+
 .carousel-item {
   text-align: center;
 }

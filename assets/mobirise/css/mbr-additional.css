@@ -711,7 +711,9 @@ a {
   flex-direction: row-reverse;
 }
 .cid-tckAGwpbe9 img {
-  width: 100%;
+  max-width: 350px;
+  width: 70%;
+  margin: 0 auto;
 }
 @media (min-width: 992px) {
   .cid-tckAGwpbe9 .text-wrapper {
